@@ -50,4 +50,4 @@ The bot will start mirroring trades in real-time. You can monitor the performanc
 
 The **Solana Copy Trading Bot** offers a hands-free, decentralized solution for users looking to mirror successful traders on Solana-based DEXs. With real-time trade mirroring, multi-exchange support, customizable settings, and low fees, this bot allows users to grow their portfolios passively by leveraging the expertise of experienced traders.
 
-For support or inquiries, feel free to reach out via Telegram: [@Immutal0](https://t.me/Immutal0).
+For support or inquiries, feel free to reach out via Telegram: [@frankeindev](https://t.me/frankeindev).
